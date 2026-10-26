@@ -7,12 +7,9 @@ Editor leve para editar HTML e outros arquivos de código, com realce de sintaxe
 - Abrir arquivos locais e exportar escolhendo a extensão.
 - Histórico local de versões e pontos de recuperação.
 - Desfazer/refazer e atalhos de teclado.
-- Painéis de ações recolhíveis e ajuda por título/toque longo.
+- Painéis de ações recolhíveis e informes por título.
 - Testar código em prévia isolada ou em outra aba.
 - PWA instalável, com cache para uso offline após a primeira visita.
-
-## Publicação
-Os arquivos desta pasta compõem o site. Publique a pasta mantendo a estrutura de `index.html`, `manifest.webmanifest`, `sw.js` e `icons/`. A instalação PWA requer HTTPS (GitHub Pages fornece HTTPS). A abertura direta do HTML como arquivo local funciona como editor, mas instalação PWA e service worker só funcionam em um site servido por HTTPS ou localhost.
 
 ## Dados e segurança
 Rascunhos e histórico são armazenados no armazenamento local do navegador. O modo de teste executa o código dentro de um iframe isolado; ainda assim, execute apenas código em que confia.
