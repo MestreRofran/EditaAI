@@ -1,4 +1,4 @@
-# EditaAI 1.4 — editor de código
+# EditaAI 1.7 — editor de código
 
 O **EditaAI** é um editor leve para escrever, revisar e testar páginas HTML e outros arquivos de código no celular ou no computador. A interface foi pensada para deixar o código em destaque, com ferramentas organizadas em botões compactos.
 
